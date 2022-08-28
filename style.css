@@ -1,3 +1,24 @@
 .fa-star{
     color: gold;
 }
+.fa-angle-left{
+    height: 3rem;
+    width: 3rem;
+    font-size: 3.5rem;
+}
+.fa-facebook{
+font-size: 2rem;
+color: rgb(86, 84, 236);
+}
+.fa-twitter{
+    font-size: 2rem;
+    color: rgb(86, 84, 236);
+}
+.fa-linkedin-in{
+    font-size: 2rem;
+    color: rgb(86, 84, 236);
+}
+.fa-instagram{
+    font-size: 2rem;
+    color: rgb(86, 84, 236);
+}
